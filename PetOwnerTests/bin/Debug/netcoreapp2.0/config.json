@@ -1,10 +1,23 @@
 ﻿{
   "PetOwnerDatabase": {
     "PetOwnerUrl": "http://agl-developer-test.azurewebsites.net/people.json",
-    "UseProxy": true,
-    "ProxyAddress": "proxy.internal.bupa.com.au",
-    "ProxyPort": 8080,
-    "ProxyUsername": "mthompson",
-    "ProxyPassword":  "Sezulegin46"
+   "UseProxy": false,
+    "ProxyAddress": "",
+    "ProxyPort": 0,
+    "ProxyUsername": "",
+    "ProxyPassword": ""
+  },
+  "Logging": {
+    "IncludeScopes": true,
+    "Console": {
+      "LogLevel": {
+        "Default": "Information"
+      }
+    },
+    "Debug": {
+      "LogLevel": {
+        "Default": "Information"
+      }
+    }
   }
 }
