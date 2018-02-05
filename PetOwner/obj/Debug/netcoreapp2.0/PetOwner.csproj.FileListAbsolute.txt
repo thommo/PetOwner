@@ -1,0 +1,12 @@
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\PetOwner.deps.json
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\PetOwner.runtimeconfig.json
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\PetOwner.runtimeconfig.dev.json
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\PetOwner.dll
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.csprojResolveAssemblyReference.cache
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.csproj.CoreCompileInputs.cache
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.AssemblyInfoInputs.cache
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.AssemblyInfo.cs
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\PetOwner.pdb
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.dll
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\obj\Debug\netcoreapp2.0\PetOwner.pdb
+C:\home\cloud\OneDrive\dev\CodingTests\AGL\PetOwner\bin\Debug\netcoreapp2.0\config.json
